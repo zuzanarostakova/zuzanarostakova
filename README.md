@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on ...
+🔭 I’m an applied mathematician focusing on EEG and neurophysiological data analysis.
 <!--
 **zuzanarostakova/zuzanarostakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
